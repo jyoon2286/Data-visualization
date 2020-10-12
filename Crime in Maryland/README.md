@@ -1,5 +1,5 @@
 # Project name
-Crime in Maryland
+Infographic for crime rate in Maryland county and UMD
 
 # Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was curious about how safe to live in Maryland. I had
