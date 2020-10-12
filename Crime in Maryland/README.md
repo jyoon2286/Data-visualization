@@ -30,3 +30,6 @@ crime control & prevention for MD data.
 * https://www.kaggle.com/agnt47x/crime-in-the-us<br>
 
 # Data visualization
+<p align="center">
+  <img src=crime_in_MD.jpg>
+</p>
